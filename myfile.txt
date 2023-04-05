@@ -1,5 +1,6 @@
 one line
 
 ADDDED on new branch
+NEW LINE
 
-master line added on line 4
+Uncommitted new three line
